@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lota Grotesque Alt';
+    src: url('~static/fonts/lotagrotesquealt1-regular-webfont.woff2') format('woff2'),
+    url('~static/fonts/lotagrotesquealt1-regular-webfont.woff') format('woff'),
+    url('~static/fonts/lotagrotesquealt1-semibold-webfont.woff2') format('woff2'),
+    url('~static/fonts/lotagrotesquealt1-semibold-webfont.woff') format('woff');
+    font-style: normal;
+}
